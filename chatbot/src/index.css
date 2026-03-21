@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+}
+
+.chatbot-container {
+  width: 400px;
+  margin: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.chatbot-messages {
+  height: 300px;
+  overflow-y: auto;
+}
+
+.chatbot-input-area {
+  display: flex;
+}
